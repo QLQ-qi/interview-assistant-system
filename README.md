@@ -241,7 +241,7 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 联系方式
 
-- 📧 Email: your-email@example.com
+- 📧 Email: qlq99572@gmail.com
 - 💬 Issues: [GitHub Issues](https://github.com/QLQ-qi/interview-assistant-system/issues)
 
 ## 致谢
